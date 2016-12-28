@@ -6,7 +6,7 @@ deps = {
   'src/build':
       Var('git_url') + '/chromium/src/build.git@c45f365b10efe5057a01029f2d9d8bdfb13bc257',
   'src/third_party/binutils':
-      Var('git_url') + '/chromium/src/third_party/binutils.git@f1962d5644a4f6e972e167c4e72fc8985f1c2a45',
+      Var('git_url') + '/chromium/src/third_party/binutils.git@8d77853bc9415bcb7bb4206fa2901de7603387db',
   'src/tools/clang':
       Var('git_url') + '/chromium/src/tools/clang.git@70184647b4240e4e7b38290ad3e049242a0dc0bc',
   'src/tools/gyp':
